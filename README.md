@@ -10,6 +10,6 @@ I have developed an automated bash script where Nuclei scan(Fast and customizabl
 
 # How to Execute:
 -	Download/Clone the script in your system
--	Make sure you have already installed rerequisites
+-	Make sure you have already installed prerequisites
 -	Ensure that you have target domains in target_list.txt file
 -	Run the downloded scripts

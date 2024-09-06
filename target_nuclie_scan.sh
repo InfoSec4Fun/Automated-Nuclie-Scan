@@ -9,7 +9,7 @@ do
         echo "Scanning Completed..! for target $trg and Results are saved in $file1";
 done
 
-# Sending slack notification to #appsec_test channel for issues other than info severity.
+# Sending slack notification to #appsec_test channel (TEAM) for issues other than info severity.
 
 issue_alert=$(cat $(date +%d-%m-%y)* | grep -v info)
 
